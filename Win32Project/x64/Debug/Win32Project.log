@@ -1,0 +1,3 @@
+﻿  Win32Project.cpp
+D:\mfcstore\Win32Project\Win32Project.cpp(42,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Win32Project.vcxproj -> D:\mfcstore\Win32Project\x64\Debug\Win32Project.exe
